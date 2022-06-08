@@ -1,0 +1,25 @@
+{
+  "name": "ipfs",
+  "version": "1.0.0",
+  "description": "IPFS HTTP API written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officerwatch/ipfs.git"
+  },
+  "keywords": [
+    "ipfs",
+    "web3",
+    "graphql",
+    "blockchain"
+  ],
+  "author": "sami fouad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officerwatch/ipfs/issues"
+  },
+  "homepage": "https://github.com/officerwatch/ipfs#readme"
+}
